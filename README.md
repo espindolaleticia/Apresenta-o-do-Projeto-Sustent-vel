@@ -2,6 +2,7 @@
 Projeto desenvolvido para o Challenge FIAP 2026 em parceria com a GoodWe e a FIAP.
 
 Integrantes
+
 Felipe Mitsuo - RM570692
 
 Laura Godoy  - RM569181
