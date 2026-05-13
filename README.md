@@ -3,10 +3,15 @@ Projeto desenvolvido para o Challenge FIAP 2026 em parceria com a GoodWe e a FIA
 
 Integrantes
 Felipe Mitsuo - RM570692
+
 Laura Godoy  - RM569181
+
 Letícia Espindola - RM569308
+
 Mariana Dreset - RM569207
+
 Milena de Aguiar - RM570599
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sobre o Projeto
 
