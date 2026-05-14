@@ -34,8 +34,11 @@ O objetivo é melhorar a eficiência energética e incentivar práticas mais sus
 
 # Tecnologias Utilizadas
 Python
+
 Arduino
+
 Sensores básicos
+
 GitHub
 
 # Sustentabilidade e Energias Renováveis
